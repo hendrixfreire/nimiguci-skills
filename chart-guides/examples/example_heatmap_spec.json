@@ -1,0 +1,18 @@
+{
+  "chart_type": "heatmap",
+  "title": "Intensidade por região e mês",
+  "subtitle": "Exemplo determinístico de heatmap",
+  "x_label": "Mês",
+  "y_label": "Região",
+  "x_labels": ["Jan", "Fev", "Mar"],
+  "y_labels": ["Norte", "Sul", "Leste"],
+  "matrix": [
+    [12, 18, 25],
+    [8, 16, 20],
+    [15, 14, 22]
+  ],
+  "show_values": true,
+  "cmap": "Purples",
+  "value_format": "number",
+  "value_decimals": 0
+}

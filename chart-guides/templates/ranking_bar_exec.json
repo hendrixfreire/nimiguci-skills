@@ -1,0 +1,56 @@
+{
+  "name": "ranking_bar_exec",
+  "description": "Executive presentation template for a horizontal ranking bar chart with long labels.",
+  "figure": {
+    "width": 13.33,
+    "height": 7.5,
+    "dpi": 150,
+    "background": "#FFFFFF"
+  },
+  "title": {
+    "x": 0.01,
+    "y": 0.982,
+    "fontsize": 14,
+    "fontweight": "bold",
+    "wrap": 74
+  },
+  "subtitle": {
+    "x": 0.01,
+    "y": 0.915,
+    "fontsize": 10,
+    "color": "#5B6470",
+    "wrap": 96
+  },
+  "plot": {
+    "left": 0.22,
+    "right": 0.90,
+    "top": 0.76,
+    "bottom": 0.14
+  },
+  "bar": {
+    "height": 0.54,
+    "primary_color": "#6D28D9",
+    "secondary_colors": ["#0F766E", "#EA580C", "#2563EB", "#16A34A", "#9333EA", "#DC2626"]
+  },
+  "category_label": {
+    "fontsize": 9,
+    "wrap": 24,
+    "pad": 8
+  },
+  "value_label": {
+    "mode": "outside_end",
+    "fontsize": 9.5,
+    "fontweight": "bold",
+    "dx_ratio": 0.015,
+    "min_dx": 0.05,
+    "ha": "left",
+    "va": "center"
+  },
+  "axis": {
+    "show_y": true,
+    "show_left_spine": false,
+    "show_bottom_spine": false,
+    "show_xticks": false,
+    "xlabel_pad": 12
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "chart_type": "waterfall",
+  "data_path": "skills/chart-guides/examples/example_waterfall.csv",
+  "title": "Ponte de variação até o resultado final",
+  "subtitle": "Exemplo determinístico de waterfall",
+  "x_label": "Etapa",
+  "y_label": "Valor",
+  "x": "etapa",
+  "y": "valor",
+  "measure_types": ["total", "relative", "relative", "relative", "total"],
+  "show_values": true,
+  "value_format": "number",
+  "value_decimals": 0,
+  "y_min": 0
+}

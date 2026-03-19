@@ -1,0 +1,30 @@
+# Credenciais e secrets - NUNCA commitar
+*-auth.json
+*-config.json
+*-token.json
+*credentials*
+*secret*
+*.env
+*.env.*
+
+# Arquivos de metadados locais
+.clawhub/
+_meta.json
+
+# Arquivos de desenvolvimento
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+node_modules/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# IDE
+.vscode/
+.idea/

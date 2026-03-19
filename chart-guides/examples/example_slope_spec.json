@@ -1,0 +1,15 @@
+{
+  "chart_type": "slope",
+  "data_path": "skills/chart-guides/examples/example_slope.csv",
+  "title": "Mudança entre antes e depois por categoria",
+  "subtitle": "Exemplo determinístico de slope chart",
+  "label_key": "categoria",
+  "start_key": "antes",
+  "end_key": "depois",
+  "left_label": "Antes",
+  "right_label": "Depois",
+  "show_values": true,
+  "highlight_index": 0,
+  "value_format": "number",
+  "value_decimals": 0
+}

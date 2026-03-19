@@ -1,0 +1,17 @@
+{
+  "chart_type": "grouped_bar",
+  "data_path": "skills/chart-guides/examples/example_grouped_bar.csv",
+  "title": "Comparação por categoria e série",
+  "subtitle": "Exemplo determinístico de grouped bar",
+  "x_label": "Categoria",
+  "y_label": "Valor",
+  "x": "categoria",
+  "series": ["serie_a", "serie_b", "serie_c"],
+  "orientation": "vertical",
+  "show_values": false,
+  "show_legend": true,
+  "legend_loc": "upper right",
+  "y_min": 0,
+  "value_format": "number",
+  "value_decimals": 0
+}

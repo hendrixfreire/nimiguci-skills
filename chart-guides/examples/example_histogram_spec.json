@@ -1,0 +1,13 @@
+{
+  "chart_type": "histogram",
+  "data_path": "skills/chart-guides/examples/example_histogram.csv",
+  "title": "Distribuição dos valores observados",
+  "subtitle": "Exemplo determinístico de histograma",
+  "x_label": "Valor",
+  "y_label": "Frequência",
+  "x": "valor",
+  "bins": 6,
+  "show_values": false,
+  "value_format": "number",
+  "value_decimals": 0
+}

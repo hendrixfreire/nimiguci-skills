@@ -1,0 +1,61 @@
+{
+  "name": "single_bar_exec",
+  "description": "Executive presentation template for a single horizontal bar highlight chart.",
+  "figure": {
+    "width": 13.33,
+    "height": 7.5,
+    "dpi": 150,
+    "background": "#FFFFFF"
+  },
+  "title": {
+    "x": 0.01,
+    "y": 0.982,
+    "fontsize": 14,
+    "fontweight": "bold",
+    "wrap": 68
+  },
+  "subtitle": {
+    "x": 0.01,
+    "y": 0.915,
+    "fontsize": 10,
+    "color": "#5B6470",
+    "wrap": 88
+  },
+  "plot": {
+    "left": 0.10,
+    "right": 0.92,
+    "top": 0.74,
+    "bottom": 0.26
+  },
+  "bar": {
+    "height": 0.26,
+    "color": "#6D28D9",
+    "x_start_ratio": 0.08,
+    "x_end_ratio": 0.82,
+    "y": 0.0
+  },
+  "category_label": {
+    "x_ratio": 0.08,
+    "y": 0.34,
+    "fontsize": 10,
+    "fontweight": "bold",
+    "wrap": 38,
+    "ha": "left"
+  },
+  "value_label": {
+    "mode": "bar_end_centered",
+    "fontsize": 11,
+    "fontweight": "bold",
+    "dx": 0.0,
+    "dy": 0.0,
+    "ha": "center",
+    "va": "center"
+  },
+  "axis": {
+    "show_y": false,
+    "show_left_spine": false,
+    "show_bottom_spine": false,
+    "show_xticks": false,
+    "xlabel_pad": 12
+  }
+}

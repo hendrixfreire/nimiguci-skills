@@ -1,0 +1,29 @@
+{
+  "chart_type": "bar",
+  "data_path": "skills/chart-guides/examples/example_bar.csv",
+  "title": "Replace with takeaway title",
+  "subtitle": "",
+  "x_label": "categoria",
+  "y_label": "valor",
+  "x": "categoria",
+  "y": "valor",
+  "style": {
+    "width": 13.33,
+    "height": 7.5,
+    "dpi": 150,
+    "font_family": "DejaVu Sans",
+    "title_size": 14,
+    "axis_size": 10,
+    "tick_size": 8,
+    "grid": false
+  },
+  "orientation": "vertical",
+  "show_values": true,
+  "highlight_index": 0,
+  "sort_by": "valor",
+  "sort_order": "desc",
+  "value_format": "number",
+  "value_decimals": 0,
+  "x_tick_rotation": 0,
+  "y_min": 0
+}
